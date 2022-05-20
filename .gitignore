@@ -1,0 +1,13 @@
+!**/packages/build/
+!**/packages/repositories.config
+**/packages/*
+**/bin/*
+**/obj/*
+**/.vs/*
+*.log
+*.nupkg
+*.csproj.user
+*.DotSettings.user
+*~
+.DS_Store
+.gitconfig
